@@ -79,6 +79,9 @@ Input domain-specific text into the system via the frontend or directly modify s
 - **Chatting with KG grounding**:  
 Ask questions like:
 
+What is INSAT-3D?
+Tell me about the launch date of Megha-Tropiques.
+
 - **Exploring the graph**:  
 Use the Neo4j browser (`http://localhost:7474`) to visually inspect the knowledge graph and run custom Cypher queries.
 
